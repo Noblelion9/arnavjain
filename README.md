@@ -167,13 +167,13 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
     <h4 id="contact" style = "margin-top:10px"><b>Contact Me</b></h4>
     <div class="w3-row-padding w3-center w3-padding-24" style="margin:-10px">
       <div class="w3-third w3-dark-grey">
-        <p><i class="fa fa-envelope w3-xxlarge w3-text-light-grey" style = "margin-top:10px; margin-left:20px"></i>     arnavjain2926@gmail.com</p>
+        <p><i class="fa fa-envelope w3-xxlarge w3-text-light-grey" style = "margin-top:10px; margin-left:10px"></i>     arnavjain2926@gmail.com</p>
       </div>
       <div class="w3-third w3-teal">
-        <p><i class="fa fa-map-marker w3-xxlarge w3-text-light-grey" style = "margin-top:10px; margin-left:20px"></i>     California, US</p>
+        <p><i class="fa fa-map-marker w3-xxlarge w3-text-light-grey" style = "margin-top:10px; margin-left:10px"></i>     California, US</p>
       </div>
       <div class="w3-third w3-dark-grey">
-        <p><i class="fa fa-phone w3-xxlarge w3-text-light-grey" style = "margin-top:10px; margin-left:20px"></i>     925-519-0622</p>
+        <p><i class="fa fa-phone w3-xxlarge w3-text-light-grey" style = "margin-top:10px; margin-left:10px"></i>     925-519-0622</p>
       </div>
     </div>
     <hr class="w3-opacity">
