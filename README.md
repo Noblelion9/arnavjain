@@ -157,7 +157,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
     <h4 id="contact"><b>Contact Me</b></h4>
     <div class="w3-row-padding w3-center w3-padding-24" style="margin:0 -10px">
       <div class="w3-third w3-dark-grey">
-        <p style = "margin-top:100px"><i class="fa fa-envelope w3-xxlarge w3-text-light-grey"></i></p>
+        <p><i class="fa fa-envelope w3-xxlarge w3-text-light-grey" style = "margin-top:100px"></i></p>
         <p>email@email.com</p>
       </div>
       <div class="w3-third w3-teal">
