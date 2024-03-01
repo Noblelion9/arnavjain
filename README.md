@@ -123,7 +123,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
 
   <div class="w3-container w3-padding-large" style="margin-bottom:32px">
     <h4><b>About Me</b></h4>
-    <p>Just me, myself and I, exploring the universe of unknownment. I have a heart of love and an interest of lorem ipsum and mauris neque quam blog. I want to share my world with you. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+    <p> I am Arnav Jain, an 8th grader from California. I am very passionate about robotics and programming. I have been constantly programming and creating new things for the past 4 years. The things I am most proud of are going to regionals in FTC with is a FIRST ROBOTICS CHALLENGE that teaches us, how to work as a team, solve problems, and how to think like an engineer,</p>
     <hr>
     
     <h4>Technical Skills</h4>
@@ -167,13 +167,13 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
     <h4 id="contact" style = "margin-top:10px"><b>Contact Me</b></h4>
     <div class="w3-row-padding w3-center w3-padding-24" style="margin:0 -10px">
       <div class="w3-third w3-dark-grey">
-        <p><i class="fa fa-envelope w3-xxlarge w3-text-light-grey" style = "margin-top:10px; margin-left:40px"></i>arnavjain2926@gmail.com</p>
+        <p><i class="fa fa-envelope w3-xxlarge w3-text-light-grey" style = "margin-top:10px; margin-left:-20px"></i>arnavjain2926@gmail.com</p>
       </div>
       <div class="w3-third w3-teal">
-        <p><i class="fa fa-map-marker w3-xxlarge w3-text-light-grey" style = "margin-top:10px; margin-left:40px"></i>California, US</p>
+        <p><i class="fa fa-map-marker w3-xxlarge w3-text-light-grey" style = "margin-top:10px; margin-left:-20px"></i>California, US</p>
       </div>
       <div class="w3-third w3-dark-grey">
-        <p><i class="fa fa-phone w3-xxlarge w3-text-light-grey" style = "margin-top:10px; margin-left:40px"></i>925-519-0622</p>
+        <p><i class="fa fa-phone w3-xxlarge w3-text-light-grey" style = "margin-top:10px; margin-left:-20px"></i>925-519-0622</p>
       </div>
     </div>
     <hr class="w3-opacity">
