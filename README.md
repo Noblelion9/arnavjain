@@ -128,11 +128,12 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
     
     <h4>Technical Skills</h4>
     <!-- Progress bars / Skills -->
-    <p>Photography</p>
+    <p>Coding</p>
+    <p>  Javascript, python, html/css</p>
     <div class="w3-grey">
-      <div class="w3-container w3-dark-grey w3-padding w3-center" style="width:95%">95%</div>
+      <div class="w3-container w3-dark-grey w3-padding w3-center" style="width:65%">65%</div>
     </div>
-    <p>Web Design</p>
+    <p>Web Art</p>
     <div class="w3-grey">
       <div class="w3-container w3-dark-grey w3-padding w3-center" style="width:85%">85%</div>
     </div>
@@ -154,7 +155,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
   
   <!-- Contact Section -->
   <div class="w3-container w3-padding-large w3-grey">
-    <h4 id="contact"><b>Contact Me</b></h4>
+    <h4 id="contact" style = "margin-top:10px"><b>Contact Me</b></h4>
     <div class="w3-row-padding w3-center w3-padding-24" style="margin:0 -10px">
       <div class="w3-third w3-dark-grey">
         <p><i class="fa fa-envelope w3-xxlarge w3-text-light-grey" style = "margin-top:10px"></i></p>
