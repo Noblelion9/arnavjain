@@ -84,7 +84,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
       </div>
     </div>
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src="trphy.png" alt="trophy" style="width:100%" class="w3-hover-opacity">
+      <img src="trophy.png" alt="trophy" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>Our trophy</b></p>
         <p>At our most recent competition, we won a trophy for getting to finals.</p>
