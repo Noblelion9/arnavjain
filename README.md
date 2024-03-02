@@ -66,7 +66,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
       </div>
     </div>
     <div class="w3-third w3-container">
-      <img src="XBOT.png" alt="robot" style="width:100%" class="w3-hover-opacity">
+      <img src="XBOT.png" alt="robot" style="width:95%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>Our robot</b></p>
         <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
