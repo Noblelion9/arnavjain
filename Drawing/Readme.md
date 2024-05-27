@@ -32,21 +32,18 @@ During my free time I love to draw. Here are some of the drawings I have done in
   <div class="column">
     <img src="jones.jpg" alt="jones" width="200"/>
   </div>
-  <div class="column">
-    <img src="boesman.jpg" alt="boseman" width="200"/>
-  </div>
 </div>
 
 <div class="row">
   <div class="column">
     <img src="billie.jpg" alt="billie" width="200"/>
-  </div>
+    </div>
 </div>
 
 <div class="row">
   <div class="column">
     <img src="charlie.jpg" alt="charlie" width="200"/>
-    </div>
+  </div>
   <div class="column">
     <img src="shahrukhkhan.jpg" alt="shahrukhkhan" width="200"/>
   </div>
