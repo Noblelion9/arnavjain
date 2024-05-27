@@ -18,6 +18,7 @@ During my free time I love to draw. Here are some of the drawings I have done in
     content: "";
     clear: both;
     display: table;
+    float: left;
     }
 </style>
 
