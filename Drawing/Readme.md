@@ -1,5 +1,26 @@
 During my free time I love to draw. Here are some of the drawings I have done in the past couple years:
 
+<html>
+
+<style>
+    * {
+    box-sizing: border-box;
+    }
+
+    .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    }
+
+    * Clearfix (clear floats) */
+    .row::after {
+    content: "";
+    clear: both;
+    display: table;
+    }
+</style>
+
 <div class="row">
   <div class="column">
     <img src="aishwarya.jpg" alt="aishwarya" width="200"/>  </div>
@@ -39,7 +60,7 @@ During my free time I love to draw. Here are some of the drawings I have done in
     <img src="Rock.jpg" alt="Dwayne" width="200"/>
   </div>
 </div>
-
+</html>
 
 
 
