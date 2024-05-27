@@ -1,24 +1,51 @@
 During my free time I love to draw. Here are some of the drawings I have done in the past couple years:
 
-<img src="aishwarya.jpg" alt="aishwarya" width="200"/>
+<div class="row">
+  <div class="column">
+    <img src="aishwarya.jpg" alt="aishwarya" width="200"/>  </div>
+  <div class="column">
+    <img src="bean.jpg" alt="bean" width="200"/>
+  </div>
+</div>
 
-<img src="bean.jpg" alt="bean" width="200"/>
+<div class="row2">
+  <div class="column">
+    <img src="billie.jpg" alt="billie" width="200"/>
+  <div class="column">
+    <img src="boesman.jpg" alt="boseman" width="200"/>
+  </div>
+</div>
 
-<img src="billie.jpg" alt="billie" width="200"/>
+<div class="row3">
+  <div class="column">
+    <img src="charlie.jpg" alt="charlie" width="200"/>
+  <div class="column">
+    <img src="jones.jpg" alt="jones" width="200"/>
+  </div>
+</div>
 
-<img src="boesman.jpg" alt="boseman" width="200"/>
+<div class="row4">
+  <div class="column">
+    <img src="llloyd.jpg" alt="llloyd" width="200"/>
+  <div class="column">
+    <img src="luca.jpg" alt="Luca" width="200"/>
+  </div>
+</div>
 
-<img src="charlie.jpg" alt="charlie" width="200"/>
+<div class="row5">
+  <div class="column">
+    <img src="marilyn.jpg" alt="Marliyn Monroe" width="200"/>
+  <div class="column">
+    <img src="Rock.jpg" alt="Dwayne" width="200"/>
+  </div>
+</div>
 
-<img src="jones.jpg" alt="jones" width="200"/>
 
-<img src="llloyd.jpg" alt="llloyd" width="200"/>
 
-<img src="luca.jpg" alt="Luca" width="200"/>
 
-<img src="marilyn.jpg" alt="Marliyn Monroe" width="200"/>
 
-<img src="Rock.jpg" alt="Dwayne" width="200"/>
+
+
 
 <img src="shahrukhkhan.jpg" alt="shahrukhkhan" width="200"/>
 
