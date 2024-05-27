@@ -23,13 +23,14 @@ During my free time I love to draw. Here are some of the drawings I have done in
 
 <div class="row">
   <div class="column">
-    <img src="aishwarya.jpg" alt="aishwarya" width="200"/>  </div>
+    <img src="aishwarya.jpg" alt="aishwarya" width="200"/>  
+    </div>
   <div class="column">
     <img src="bean.jpg" alt="bean" width="200"/>
   </div>
 </div>
 
-<div class="row2">
+<div class="row">
   <div class="column">
     <img src="billie.jpg" alt="billie" width="200"/>
   <div class="column">
@@ -37,7 +38,7 @@ During my free time I love to draw. Here are some of the drawings I have done in
   </div>
 </div>
 
-<div class="row3">
+<div class="row">
   <div class="column">
     <img src="charlie.jpg" alt="charlie" width="200"/>
   <div class="column">
@@ -45,7 +46,7 @@ During my free time I love to draw. Here are some of the drawings I have done in
   </div>
 </div>
 
-<div class="row4">
+<div class="row">
   <div class="column">
     <img src="llloyd.jpg" alt="llloyd" width="200"/>
   <div class="column">
@@ -53,7 +54,7 @@ During my free time I love to draw. Here are some of the drawings I have done in
   </div>
 </div>
 
-<div class="row5">
+<div class="row">
   <div class="column">
     <img src="marilyn.jpg" alt="Marliyn Monroe" width="200"/>
   <div class="column">
